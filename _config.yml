@@ -1,0 +1,27 @@
+name: Personal Website
+author: Harold Lu
+baseurl: https://harold-lu.github.io
+description: theme for jekyll
+github: http://www.github.com/harold-lu
+linkedin: https://www.linkedin.com/in/harold-lu/
+email: harold.lu123@gmail.com
+
+##Make sure to edit the above fields, especially for disqus.
+
+
+highlighter: pygments
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables"]
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
