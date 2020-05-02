@@ -10,9 +10,6 @@ email: mailto:harold.lu123@gmail.com
 
 
 highlighter: rouge
-markdown: redcarpet
-redcarpet:
-  extensions: ["tables"]
 
 defaults:
   - scope:
