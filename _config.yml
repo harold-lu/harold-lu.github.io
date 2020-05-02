@@ -9,7 +9,7 @@ email: mailto:harold.lu123@gmail.com
 ##Make sure to edit the above fields, especially for disqus.
 
 
-highlighter: pygments
+highlighter: rouge
 markdown: redcarpet
 redcarpet:
   extensions: ["tables"]
