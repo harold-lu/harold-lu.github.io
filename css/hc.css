@@ -581,6 +581,11 @@ time
   border-left:solid 2px #324C79
 }
 
+.content li 
+{
+	list-style-position:outside
+}
+
 
 
 #menu-toggle,.project-post div
