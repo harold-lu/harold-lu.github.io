@@ -306,7 +306,7 @@ pre
 
 #welcome-greeting > h1
 {
-  font-size:25px;
+  font-size:30px;
   font-weight:700;
   color:#d90006;
   line-height:130%
@@ -314,7 +314,7 @@ pre
 
 #welcome-greeting > h2
 {
-  font-size:22px;
+  font-size:20px;
   font-weight:300;
   color:#2e2e2e;
   padding-top:0;
